@@ -1,6 +1,7 @@
 ---
 share: "true"
 ---
+# Hiking sandwiches
 [[09-06-25|09-06-25]]
 
 |                                                                             | Bread            | Meat                      | Cheese          | Veggies                        | Condiments                  |
