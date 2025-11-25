@@ -4,7 +4,7 @@ share: "true"
 
 - Date range
 	- [[12-24-25|12-24-25]] to [[12-30-25|12-30-25]]
-	- [ ] Take off work for this trip [link](https://app.todoist.com/app/task/9673200159) #todoist %%[todoist_id:: 9673200159]%% 
+	- [x] Take off work for this trip [link](https://app.todoist.com/app/task/9673200159) #todoist %%[todoist_id:: 9673200159]%% 
 
 # AirBnB
 - 
